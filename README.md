@@ -1,6 +1,6 @@
 # Four Debounced Buttons
 
-The designed board have four debounced tactile buttons.
+The designed board has four debounced tactile buttons.
 
 The board has an 6-pin socket header, containing the VCC, GND and the four output signals (Q1 to Q4).
 
